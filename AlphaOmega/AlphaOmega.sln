@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaOmegaClient", "AlphaOmegaClient\AlphaOmegaClient.csproj", "{CA0FA78B-8F33-4776-AB9E-643EC8B1B8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaOmegaServices", "AlphaOmegaServices\AlphaOmegaServices.csproj", "{8EF7086C-EF3A-4104-BFF0-3B8C033551AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0FA78B-8F33-4776-AB9E-643EC8B1B8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0FA78B-8F33-4776-AB9E-643EC8B1B8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0FA78B-8F33-4776-AB9E-643EC8B1B8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0FA78B-8F33-4776-AB9E-643EC8B1B8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF7086C-EF3A-4104-BFF0-3B8C033551AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF7086C-EF3A-4104-BFF0-3B8C033551AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF7086C-EF3A-4104-BFF0-3B8C033551AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF7086C-EF3A-4104-BFF0-3B8C033551AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D33F884-A6C2-43DC-A8F3-671E4C1051E8}
+	EndGlobalSection
+EndGlobal
